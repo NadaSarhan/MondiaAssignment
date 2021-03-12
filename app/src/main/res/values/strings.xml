@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MondiaAssignment</string>
+    <string name="input_text">Input text here</string>
+    <string name="description">Song poster</string>
+    <string name="songTitle">Song title here</string>
+    <string name="songType">Song type here</string>
+    <string name="artist">Song artist here</string>
+</resources>
